@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+.navbar{
+    background-color:rgb(96, 129, 126) !important;
+    
+}
+.navbar-nav .nav-items .nav-link{
+    color: rgb(29, 64, 77);
+    font-size: 15px;
+    text-transform: capitalize;
+    font-weight: 600;
+   
+}
+.navbar-nav .nav-items .nav-link:hover{
+    color:white;
+}
+
+h1{
+    color: rgb(96, 129, 126);
+}
+
+.themebtn{
+    background-color: rgb(96, 129, 126);
+    color:white;
+}
